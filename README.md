@@ -1,4 +1,4 @@
-# expense-reimbursement
+# BootstrapVue Example
 
 ## Project setup
 ```
